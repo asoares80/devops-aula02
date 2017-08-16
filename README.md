@@ -1,4 +1,6 @@
-# devops-aula02
+# Atores/atrizes preferidos
+
 Morgan Freeman
-Robert de Niro
+Domingos Montagner
 Angelina Jolie
+Robert De Niro
